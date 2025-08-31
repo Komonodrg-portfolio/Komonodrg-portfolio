@@ -11,15 +11,15 @@ Colleagues, Onward.
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>🛣️ Networking</h2>
+<h3>🛣️ Networking</h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
-<h2>💡 AI</h2>
-
+<h3>💡 AI</h3>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
