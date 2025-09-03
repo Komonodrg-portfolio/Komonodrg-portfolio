@@ -9,7 +9,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 <h3>📄 About Me </h3>
 
-- <a href="https://example.com/resume.pdf" target="_blank"><b>Resume / Cover Letter</b></a>
+- <a href="https://github.com/Komonodrg-portfolio/Komonodrg-portfolio/blob/main/SK%20Resume%202025.pdf" target="_blank"><b>Resume / Cover Letter</b></a>
 
 - <a href="https://example.com/projects" target="_blank"><b>Professional Projects</b></a>
 
