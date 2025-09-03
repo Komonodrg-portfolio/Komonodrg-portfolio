@@ -1,8 +1,15 @@
 <h1>Steven Komono <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">AI Enthusiat</a></h1>
 
 <h2>🏁 Purpose/Mission</h2>
-To serve as a one stop hub to not only showcase my skills and interests, but to encourage and assist in guiding those seeking to break into IT.  Whether you are a tech savvy veteran, an Employer considering hiring for a role, or someone new to IT realm, I look to leverage my experience from my Network Engineering background into becoming a more proficient Cybersecurity Professional and knowledgable Data Scientist (AI).  This repo serves to document the journey.<p>&nbsp;</p>  
-Colleagues, Onward.
+To serve as a one stop hub to not only showcase my skills and interests, but to encourage and assist in guiding those seeking to break into IT.  Whether you are a tech savvy veteran, an Employer considering hiring for a role, or someone new to IT realm, I look to leverage experience from my Network Engineering background into becoming a more proficient Cybersecurity Professional and knowledgable Data Scientist (AI).  This repo serves to document the journey.
+<p>&nbsp;</p>  
+
+Please feel free to check out my resume, highlighting my experience, interests, and passion for mission work.
+
+Colleagues, Onward.<p>&nbsp;</p>
+>"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world."   - Joel A. Barker
+
+
 
 <h2>📂 Projects</h2>
 <h3>👨‍💻 Cybersecurity</h3>
@@ -14,7 +21,7 @@ Colleagues, Onward.
 <h3>🛣️ Networking</h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a home networking lab](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h3>💡 AI</h3>
 
