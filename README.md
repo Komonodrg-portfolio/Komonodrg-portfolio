@@ -1,4 +1,13 @@
-<h1>Welcome, I'm Steven Komono <br/><a href="https://github.com/joshmadakor1">Cybersecurity</a>| <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a>| <a href="https://www.youtube.com/c/joshmadakor">Data Science (AI)</a></h1>| <a href="https://www.youtube.com/c/joshmadakor">Project Management (AI)</a></h1>
+<h1>
+  Welcome, I'm Steven Komono <br/>
+  <sub>
+    <a href="https://github.com/joshmadakor1">Cybersecurity</a> | 
+    <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a> | 
+    <a href="https://www.youtube.com/c/joshmadakor">Data Science (AI)</a> | 
+    <a href="https://www.twitter.com/c/joshmadakor">Project Management</a>
+  </sub>
+</h1>
+
 
 <h2>🏁 Purpose/Mission</h2>
 To serve as a one stop hub to not only showcase my skills and interests, but to encourage and assist in guiding those seeking to break into IT.  Whether you are a tech savvy veteran, an Employer considering hiring for a role, or someone new to IT realm, I look to leverage experience from my Network Engineering background into becoming a more proficient Cybersecurity Professional and knowledgable Data Scientist (AI).  This repo serves to document the journey.<br>  
