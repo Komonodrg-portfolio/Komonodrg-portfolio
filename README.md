@@ -5,18 +5,23 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 
 <br>Colleagues, Onward.<br>
+<br>
 
-<h3>📄 About Me</h3>
+<h3>📄 About Me </h3>
 
-- <b>Resume / Cover Letter</b>
+- <a href="https://example.com/resume.pdf" target="_blank"><b>Resume / Cover Letter</b></a>
 
-- <b>Professional Projects</b>
+- <a href="https://example.com/projects" target="_blank"><b>Professional Projects</b></a>
 
-- <b>Mission / Vision</b>
+- <a href="https://example.com/projects" target="_blank"><b>Mission / Vision</b></a>
+<br>
 
 
->"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world."   - Joel A. Barker
 
+
+
+>"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world." <br>  - Joel A. Barker
+<br>
 
 
 <h2>📂 Projects</h2>
