@@ -2,7 +2,7 @@
   Welcome, I'm Steven Komono <br/>
   <sub>
     <a href="https://github.com/joshmadakor1">Cybersecurity</a> | 
-    <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a> | 
+    <a href="https://www.linkedin.com/in/joshmadakor/](https://github.com/Komonodrg-portfolio/Networking/blob/main/README.md">Networking</a> | 
     <a href="https://www.youtube.com/c/joshmadakor">Data Science (AI)</a> | 
     <a href="https://www.twitter.com/c/joshmadakor">Project Management</a>
   </sub>
