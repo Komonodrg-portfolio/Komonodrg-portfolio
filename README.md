@@ -42,8 +42,8 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 <h3>🛣️ Networking</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Creating a home networking lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Building Robust Networking Home Lab</b>
+  - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h3>💡 AI</h3>
 
