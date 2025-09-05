@@ -2,9 +2,9 @@
   Welcome, I'm Steven Komono <br/>
   <sub>
     <a href="https://github.com/Komonodrg-portfolio">Cybersecurity</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/Networking/">Networking</a> | 
-    <a href="https://www.youtube.com/c/joshmadakor">Data Science (AI)</a> | 
-    <a href="https://www.twitter.com/c/joshmadakor">Project Management</a>
+    <a href="https://github.com/Komonodrg-portfolio/Networking">Networking</a> | 
+    <a href="https://github.com/Komonodrg-portfolio/AI">Data Science (AI)</a> | 
+    <a href="https://github.com/Komonodrg-portfolio/MediaCreation">Media Creation</a>
   </sub>
 </h1>
 
