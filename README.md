@@ -22,7 +22,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 - <a href="https://example.com/projects" target="_blank"><b>Professional Projects</b></a>
 
-- <a href="https://example.com/projects" target="_blank"><b>Mission / Vision</b></a>
+- <a href="https://github.com/Komonodrg-portfolio/Mission/tree/main"><b>Mission / Vision</b></a>
 <br>
 
 
