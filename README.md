@@ -1,12 +1,6 @@
+### [Cybersecurity](https://github.com/Komonodrg-portfolio/Cybersecurity) | [Networking](https://github.com/Komonodrg-portfolio/Networking) | [Data Science (AI)](https://github.com/Komonodrg-portfolio/AI) | [Media Creation](https://github.com/Komonodrg-portfolio/MediaCreation) | [Mission](https://github.com/Komonodrg-portfolio/Mission/)
 <h1>
   Welcome, I'm Steven Komono <br/>
-  <sub>
-    <a href="https://github.com/Komonodrg-portfolio/Cybersecurity">Cybersecurity</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/Networking">Networking</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/AI">Data Science (AI)</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/MediaCreation">Media Creation</a>
-  </sub>
-</h1>
 
 
 <h2>🏁 Purpose/Mission</h2>
