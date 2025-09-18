@@ -37,7 +37,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 <h3>🛣️ Networking</h3>
 
 - <b>Building Robust Networking Home Lab</b>
-  - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Networking Home Lab](https://github.com/Komonodrg-portfolio/---N---Home_Lab_Networking)
  
 <h3>💡 AI</h3>
 
