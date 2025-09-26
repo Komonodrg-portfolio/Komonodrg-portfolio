@@ -32,7 +32,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 - <b>Implementing NIST and CIS Fundamentals within Home Lab (Ongoing)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <br>Building Home Cybersecurity Lab
+- <b>Building Home Cybersecurity Lab
   -  [Cybersecurity Home Lab](https://github.com/Komonodrg-portfolio/---CS---Home_Lab_Cyber)
 
 
