@@ -31,7 +31,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 <h3>👨‍💻 Cybersecurity</h3>
 
 - <b>Building Home Cybersecurity Lab
-  -  [Cybersecurity Home Lab](https://github.com/Komonodrg-portfolio/---CS---Home_Lab_Cyber)
+  -  [Cybersecurity Home Lab Setup Tutorial](https://github.com/Komonodrg-portfolio/---CS---Home_Lab_Cyber)
 - <b>Implementing NIST and CIS Fundamentals within Home Lab (Ongoing)</b>
   - [NIST & CIS Home Lab Implementation](https://github.com/Komonodrg-portfolio/---CS---NIST_CIS_Home_Lab)
 
@@ -44,7 +44,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
  
 <h3>💡 AI</h3>
 
-- <b>Upcoming...</b>
+- <b><em>Upcoming...</em></b>
   - [Will contain projects that assist in my Mission](https://github.com/Komonodrg-portfolio/Mission/)
  
 <h3>🖼️ Media Creation</h3>
