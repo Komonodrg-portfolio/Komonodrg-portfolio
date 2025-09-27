@@ -14,7 +14,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 - <a href="https://github.com/Komonodrg-portfolio/Komonodrg-portfolio/blob/main/SK%20Resume%202025.pdf" target="_blank"><b>Resume / Cover Letter</b></a>
 
-- <a href="https://example.com/projects" target="_blank"><b>Professional Projects</b></a>
+- <a href="https://github.com/Komonodrg-portfolio/Professional-Projects" target="_blank"><b>Professional Projects</b></a>
 
 - <a href="https://github.com/Komonodrg-portfolio/Mission/"><b>Mission / Vision</b></a>
 <br>
