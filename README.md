@@ -53,13 +53,14 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
   - [Github Webpage Creation](https://github.com/Komonodrg-portfolio/---MC---Github_Portfolio_Creation)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos / Training Materials / Mentors</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Top 5 Cyber Security Certifications 2025](https://www.youtube.com/watch?v=Fm372YP2O8M)
+- [AZ-900: Microsoft Azure Fundamentals ](https://www.udemy.com/course-dashboard-redirect/?course_id=2394982)
+- [Amazon Web Services (AWS) Certified - 5 Certifications](https://www.udemy.com/course-dashboard-redirect/?course_id=1047846)
+- [Complete Agentic AI Engineering Course (2025)](https://www.udemy.com/course-dashboard-redirect/?course_id=6566789)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -68,22 +69,8 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[tiktok]: https://tiktok.com/joshmadakor
+[tiktok]: https://tiktok.com/upcoming...
 [youtube]: https://www.youtube.com/@EvenSteveTech
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/upcoming...
 [linkedin]: https://www.linkedin.com/in/steven-komono-71790197/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
