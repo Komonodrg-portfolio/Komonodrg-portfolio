@@ -41,6 +41,8 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 - <b>Building Robust Networking Home Lab</b>
   - [Networking Home Lab Setup Tutorial](https://github.com/Komonodrg-portfolio/---N---Home_Lab_Networking)
+- <b>CCNP Labs (Encore 350-401)/b>
+  - [CCNP Labs via EVE-NG](https://github.com/Komonodrg-portfolio/---N---CCNP_Labs/tree/main)
  
 <h3>💡 AI</h3>
 
