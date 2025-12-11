@@ -44,7 +44,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 - <b>CCNP Labs (Encore 350-401)</b>
   - [CCNP Labs via EVE-NG](https://github.com/Komonodrg-portfolio/---N---CCNP_Labs/tree/main)
  
-<h3>💡 AI</h3>
+<h3>💡 Data Science (AI) </h3>
 
 - <b><em>Upcoming...</em></b>
   - [Will contain projects that assist in my Mission](https://github.com/Komonodrg-portfolio/Mission/)
