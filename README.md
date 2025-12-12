@@ -46,8 +46,8 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
  
 <h3>💡 Data Science (AI) </h3>
 
-- <b><em>Upcoming...</em></b>
-  - [Will contain projects that assist in my Mission](https://github.com/Komonodrg-portfolio/Mission/)
+-<b>Building Home Cybersecurity Lab (Ongoing)
+  -  [Microsoft Active Directory & SQL Lab Setup Tutorial](https://github.com/Komonodrg-portfolio/---DS---Microsoft-AD-and-SQL-Lab-Setup)
  
 <h3>🖼️ Media Creation</h3>
 
