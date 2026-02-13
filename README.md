@@ -43,6 +43,8 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
   - [Networking Home Lab Setup Tutorial](https://github.com/Komonodrg-portfolio/---N---Home_Lab_Networking)
 - <b>CCNP Labs (Encore 350-401)</b>
   - [CCNP Labs via EVE-NG](https://github.com/Komonodrg-portfolio/---N---CCNP_Labs/tree/main)
+- <b>ASA VS Palo Alto Firewall Comparison</b>
+  - [Firewalls (Legacy vs NGFW) Tutorial Lab](https://...)
  
 <h3>💡 Data Science (AI) </h3>
 
