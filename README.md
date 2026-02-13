@@ -44,7 +44,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 - <b>CCNP Labs (Encore 350-401)</b>
   - [CCNP Labs via EVE-NG](https://github.com/Komonodrg-portfolio/---N---CCNP_Labs/tree/main)
 - <b>ASA VS Palo Alto Firewall Comparison</b>
-  - [Firewalls (Legacy vs NGFW) Tutorial Lab](https://...)
+  - [Firewalls (Legacy vs NGFW) Tutorial Lab](https://github.com/Komonodrg-portfolio/---N---Firewalls_ASA_PA)
  
 <h3>💡 Data Science (AI) </h3>
 
