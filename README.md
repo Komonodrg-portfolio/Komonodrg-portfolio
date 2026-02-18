@@ -28,7 +28,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 
 <h2>📂 Projects</h2>
-<h3>👨‍💻 Cybersecurity</h3>
+<h3>🌐 Cybersecurity</h3>
 
 - <b>Building Home Cybersecurity Lab (Ongoing)
   -  [Cybersecurity Home Lab Setup Tutorial](https://github.com/Komonodrg-portfolio/---CS---Home_Lab_Cyber)
