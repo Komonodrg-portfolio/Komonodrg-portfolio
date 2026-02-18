@@ -46,7 +46,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 - <b>ASA VS Palo Alto Firewall Comparison</b>
   - [Firewalls (Legacy vs NGFW) Tutorial Lab](https://github.com/Komonodrg-portfolio/---N---Firewalls_ASA_PA)
  
-<h3>👨‍💻 System Administration</h3>s
+<h3>👨‍💻 System Administration</h3>
 
  - <b>Active Directory Lab</b>
   - [Comprehensive Windows Server / OS Admin Tutorial Lab](https://github.com/Komonodrg-portfolio/---N---Home_Lab_Networking)
