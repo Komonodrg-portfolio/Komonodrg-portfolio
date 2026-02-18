@@ -49,7 +49,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 <h3>👨‍💻 System Administration</h3>
 
  - <b>Active Directory Lab</b>
-  - [Comprehensive Windows Server / OS Admin Tutorial Lab](https://github.com/Komonodrg-portfolio/---N---Home_Lab_Networking)
+   - [Comprehensive Windows Server / OS Admin Tutorial Lab](https://github.com/Komonodrg-portfolio/---N---Home_Lab_Networking)
     
 <h3>💡 Data Science (AI) </h3>
 
