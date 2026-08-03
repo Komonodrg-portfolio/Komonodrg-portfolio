@@ -53,6 +53,8 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
     
 <h3>💡 Data Science (AI) </h3>
 
+- <b> Rideshare Rental Business Startup (Ongoing)
+  -  [Claude AI Assisted Real World Business Setup Tutorial](https://github.com/Komonodrg-portfolio/---DS---Microsoft-AD-and-SQL-Lab-Setup)
 - <b> Microsoft Sys Admin & DBA Home Lab (Ongoing)
   -  [Microsoft Active Directory & SQL Lab Setup Tutorial](https://github.com/Komonodrg-portfolio/---DS---Microsoft-AD-and-SQL-Lab-Setup)
  
